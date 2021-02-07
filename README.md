@@ -4,7 +4,7 @@ flutter project implementing flutter counter example with flutter_bloc package .
 
 ## Getting Started
 
-in this **[article (arabic)](https://maxzodblog.blogspot.com/2021/02/bloc.html)** you will learn how to use
+in this **[article (arabic)](https://maxzodblog.blogspot.com/2021/02/bloc.html)** you will learn 
 
 - What is Bloc ?
 - How it works Under The Hood ?
